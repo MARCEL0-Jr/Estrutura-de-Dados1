@@ -15,4 +15,4 @@ class Fila:
     return self._elementos.primeiro.item
 
   def vazia(self):
-    return
+    return self._elementos.vazia()
