@@ -1,4 +1,4 @@
-from no import No
+from ListaLigada.no import No
 
 class ListaLigada:
 
