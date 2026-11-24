@@ -41,4 +41,3 @@ class Fila:
 
   def tamanho(self):
         return self._tamanho
-  
